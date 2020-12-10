@@ -1,0 +1,80 @@
+{
+    "chart": {
+        "result": [
+            {
+                "meta": {
+                    "currency": "EUR",
+                    "symbol": "WCMK.MU",
+                    "exchangeName": "MUN",
+                    "instrumentType": "EQUITY",
+                    "firstTradeDate": null,
+                    "regularMarketTime": 1606806106,
+                    "gmtoffset": 3600,
+                    "timezone": "CET",
+                    "exchangeTimezoneName": "Europe/Berlin",
+                    "regularMarketPrice": 3.62,
+                    "chartPreviousClose": 3.66,
+                    "priceHint": 4,
+                    "currentTradingPeriod": {
+                        "pre": {
+                            "timezone": "CET",
+                            "start": 1606892400,
+                            "end": 1606892400,
+                            "gmtoffset": 3600
+                        },
+                        "regular": {
+                            "timezone": "CET",
+                            "start": 1606892400,
+                            "end": 1606942800,
+                            "gmtoffset": 3600
+                        },
+                        "post": {
+                            "timezone": "CET",
+                            "start": 1606942800,
+                            "end": 1606942800,
+                            "gmtoffset": 3600
+                        }
+                    },
+                    "dataGranularity": "1d",
+                    "range": "",
+                    "validRanges": [
+                        "1d",
+                        "5d"
+                    ]
+                },
+                "timestamp": [
+                    1606806106
+                ],
+                "indicators": {
+                    "quote": [
+                        {
+                            "open": [
+                                3.619999885559082
+                            ],
+                            "low": [
+                                3.619999885559082
+                            ],
+                            "volume": [
+                                1000
+                            ],
+                            "close": [
+                                3.619999885559082
+                            ],
+                            "high": [
+                                3.619999885559082
+                            ]
+                        }
+                    ],
+                    "adjclose": [
+                        {
+                            "adjclose": [
+                                3.619999885559082
+                            ]
+                        }
+                    ]
+                }
+            }
+        ],
+        "error": null
+    }
+}

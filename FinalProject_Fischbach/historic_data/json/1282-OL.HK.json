@@ -1,0 +1,55 @@
+{
+    "chart": {
+        "result": [
+            {
+                "meta": {
+                    "currency": "HKD",
+                    "symbol": "1282-OL.HK",
+                    "exchangeName": "HKG",
+                    "instrumentType": "EQUITY",
+                    "firstTradeDate": null,
+                    "regularMarketTime": null,
+                    "gmtoffset": 28800,
+                    "timezone": "HKT",
+                    "exchangeTimezoneName": "Asia/Hong_Kong",
+                    "priceHint": 3,
+                    "currentTradingPeriod": {
+                        "pre": {
+                            "timezone": "HKT",
+                            "start": 1606870800,
+                            "end": 1606872600,
+                            "gmtoffset": 28800
+                        },
+                        "regular": {
+                            "timezone": "HKT",
+                            "start": 1606872600,
+                            "end": 1606896600,
+                            "gmtoffset": 28800
+                        },
+                        "post": {
+                            "timezone": "HKT",
+                            "start": 1606896600,
+                            "end": 1606896600,
+                            "gmtoffset": 28800
+                        }
+                    },
+                    "dataGranularity": "1d",
+                    "range": "",
+                    "validRanges": [
+                        "1d",
+                        "5d"
+                    ]
+                },
+                "indicators": {
+                    "quote": [
+                        {}
+                    ],
+                    "adjclose": [
+                        {}
+                    ]
+                }
+            }
+        ],
+        "error": null
+    }
+}

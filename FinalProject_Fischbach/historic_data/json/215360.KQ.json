@@ -1,0 +1,80 @@
+{
+    "chart": {
+        "result": [
+            {
+                "meta": {
+                    "currency": "KRW",
+                    "symbol": "215360.KQ",
+                    "exchangeName": "KOE",
+                    "instrumentType": "EQUITY",
+                    "firstTradeDate": null,
+                    "regularMarketTime": 1606873362,
+                    "gmtoffset": 32400,
+                    "timezone": "KST",
+                    "exchangeTimezoneName": "Asia/Seoul",
+                    "regularMarketPrice": 17950.0,
+                    "chartPreviousClose": 17850.0,
+                    "priceHint": 2,
+                    "currentTradingPeriod": {
+                        "pre": {
+                            "timezone": "KST",
+                            "start": 1606861800,
+                            "end": 1606867200,
+                            "gmtoffset": 32400
+                        },
+                        "regular": {
+                            "timezone": "KST",
+                            "start": 1606867200,
+                            "end": 1606888800,
+                            "gmtoffset": 32400
+                        },
+                        "post": {
+                            "timezone": "KST",
+                            "start": 1606888800,
+                            "end": 1606899600,
+                            "gmtoffset": 32400
+                        }
+                    },
+                    "dataGranularity": "1d",
+                    "range": "",
+                    "validRanges": [
+                        "1d",
+                        "5d"
+                    ]
+                },
+                "timestamp": [
+                    1606873362
+                ],
+                "indicators": {
+                    "quote": [
+                        {
+                            "open": [
+                                18000.0
+                            ],
+                            "close": [
+                                17950.0
+                            ],
+                            "low": [
+                                17850.0
+                            ],
+                            "volume": [
+                                21044
+                            ],
+                            "high": [
+                                18000.0
+                            ]
+                        }
+                    ],
+                    "adjclose": [
+                        {
+                            "adjclose": [
+                                17950.0
+                            ]
+                        }
+                    ]
+                }
+            }
+        ],
+        "error": null
+    }
+}
